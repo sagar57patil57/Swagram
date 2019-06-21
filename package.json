@@ -1,0 +1,16 @@
+{
+  "name": "Swagram",
+  "version": "1.0.0",
+  "description": "Swagram is a full pwa",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+  ],
+  "author": "Sagar Patil",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
